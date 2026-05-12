@@ -1,4 +1,4 @@
-# 
+# advanced bybit trading bot Tool | high-frequency + webhook-support is the best bybit trading bot, featuring high-frequency and webhook-support. Smart, fast, and optimized for
 
 
 
